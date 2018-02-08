@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8722378,-122.2584171/37.8724543,-122.2579597/37.8720287,-122.2577237/37.8719271,-122.2582494/37.8733372,-122.2599365/37.8727825,-122.2601189/37.8715735,-122.2599284/37.8720605,-122.2579356/@37.8716836,-122.2596549,19z/data=!4m2!4m1!3e2?hl=en</url-->
+    <time>2016-07-15T08:19:27Z</time>
+  </metadata>
+  <wpt lat="37.8722378" lon="-122.2584171">
+    <name>South Hall Road</name>
+    <desc>South Hall Road, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:19:27Z</time>
+  </wpt>
+  <wpt lat="37.87223" lon="-122.25843">
+    <name>WP001</name>
+    <time>2016-07-15T08:19:37Z</time>
+  </wpt>
+  <wpt lat="37.87213" lon="-122.25839">
+    <name>WP002</name>
+    <time>2016-07-15T08:19:48Z</time>
+  </wpt>
+  <wpt lat="37.87217" lon="-122.25833">
+    <name>WP003</name>
+    <time>2016-07-15T08:19:59Z</time>
+  </wpt>
+  <wpt lat="37.87235" lon="-122.25821">
+    <name>WP004</name>
+    <time>2016-07-15T08:20:09Z</time>
+  </wpt>
+  <wpt lat="37.87239" lon="-122.25823">
+    <name>WP005</name>
+    <time>2016-07-15T08:20:20Z</time>
+  </wpt>
+  <wpt lat="37.87242" lon="-122.2581">
+    <name>WP006</name>
+    <time>2016-07-15T08:20:31Z</time>
+  </wpt>
+  <wpt lat="37.87245" lon="-122.25797">
+    <name>WP007</name>
+    <time>2016-07-15T08:20:41Z</time>
+  </wpt>
+  <wpt lat="37.87215" lon="-122.25784">
+    <name>WP008</name>
+    <time>2016-07-15T08:20:52Z</time>
+  </wpt>
+  <wpt lat="37.87216" lon="-122.25776">
+    <name>WP009</name>
+    <time>2016-07-15T08:21:03Z</time>
+  </wpt>
+  <wpt lat="37.87215" lon="-122.25774">
+    <name>WP010</name>
+    <time>2016-07-15T08:21:14Z</time>
+  </wpt>
+  <wpt lat="37.87201" lon="-122.25769">
+    <name>WP011</name>
+    <time>2016-07-15T08:21:24Z</time>
+  </wpt>
+  <wpt lat="37.87196" lon="-122.25782">
+    <name>WP012</name>
+    <time>2016-07-15T08:21:35Z</time>
+  </wpt>
+  <wpt lat="37.87196" lon="-122.25787">
+    <name>WP013</name>
+    <time>2016-07-15T08:21:46Z</time>
+  </wpt>
+  <wpt lat="37.87198" lon="-122.2579">
+    <name>WP014</name>
+    <time>2016-07-15T08:21:56Z</time>
+  </wpt>
+  <wpt lat="37.87203" lon="-122.25792">
+    <name>WP015</name>
+    <time>2016-07-15T08:22:07Z</time>
+  </wpt>
+  <wpt lat="37.872" lon="-122.25808">
+    <name>WP016</name>
+    <time>2016-07-15T08:22:18Z</time>
+  </wpt>
+  <wpt lat="37.87197" lon="-122.25807">
+    <name>WP017</name>
+    <time>2016-07-15T08:22:29Z</time>
+  </wpt>
+  <wpt lat="37.87192" lon="-122.25826">
+    <name>WP018</name>
+    <time>2016-07-15T08:22:39Z</time>
+  </wpt>
+  <wpt lat="37.87191" lon="-122.25831">
+    <name>WP019</name>
+    <time>2016-07-15T08:22:50Z</time>
+  </wpt>
+  <wpt lat="37.87197" lon="-122.25833">
+    <name>WP020</name>
+    <time>2016-07-15T08:23:01Z</time>
+  </wpt>
+  <wpt lat="37.87255" lon="-122.25856">
+    <name>WP021</name>
+    <time>2016-07-15T08:23:11Z</time>
+  </wpt>
+  <wpt lat="37.87325" lon="-122.25882">
+    <name>WP022</name>
+    <time>2016-07-15T08:23:22Z</time>
+  </wpt>
+  <wpt lat="37.87334" lon="-122.25889">
+    <name>WP023</name>
+    <time>2016-07-15T08:23:33Z</time>
+  </wpt>
+  <wpt lat="37.87346" lon="-122.25905">
+    <name>WP024</name>
+    <time>2016-07-15T08:23:44Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25922">
+    <name>WP025</name>
+    <time>2016-07-15T08:23:54Z</time>
+  </wpt>
+  <wpt lat="37.87354" lon="-122.25932">
+    <name>WP026</name>
+    <time>2016-07-15T08:24:05Z</time>
+  </wpt>
+  <wpt lat="37.87353" lon="-122.25945">
+    <name>WP027</name>
+    <time>2016-07-15T08:24:16Z</time>
+  </wpt>
+  <wpt lat="37.8735" lon="-122.25964">
+    <name>WP028</name>
+    <time>2016-07-15T08:24:26Z</time>
+  </wpt>
+  <wpt lat="37.87336" lon="-122.25991">
+    <name>WP029</name>
+    <time>2016-07-15T08:24:37Z</time>
+  </wpt>
+  <wpt lat="37.87304" lon="-122.26001">
+    <name>WP030</name>
+    <time>2016-07-15T08:24:48Z</time>
+  </wpt>
+  <wpt lat="37.87279" lon="-122.26012">
+    <name>WP031</name>
+    <time>2016-07-15T08:24:59Z</time>
+  </wpt>
+  <wpt lat="37.87269" lon="-122.26017">
+    <name>WP032</name>
+    <time>2016-07-15T08:25:09Z</time>
+  </wpt>
+  <wpt lat="37.87256" lon="-122.26019">
+    <name>WP033</name>
+    <time>2016-07-15T08:25:20Z</time>
+  </wpt>
+  <wpt lat="37.87243" lon="-122.26019">
+    <name>WP034</name>
+    <time>2016-07-15T08:25:31Z</time>
+  </wpt>
+  <wpt lat="37.87226" lon="-122.26017">
+    <name>WP035</name>
+    <time>2016-07-15T08:25:41Z</time>
+  </wpt>
+  <wpt lat="37.87219" lon="-122.26012">
+    <name>WP036</name>
+    <time>2016-07-15T08:25:52Z</time>
+  </wpt>
+  <wpt lat="37.87212" lon="-122.26005">
+    <name>WP037</name>
+    <time>2016-07-15T08:26:03Z</time>
+  </wpt>
+  <wpt lat="37.87191" lon="-122.25996">
+    <name>WP038</name>
+    <time>2016-07-15T08:26:14Z</time>
+  </wpt>
+  <wpt lat="37.87183" lon="-122.25995">
+    <name>WP039</name>
+    <time>2016-07-15T08:26:24Z</time>
+  </wpt>
+  <wpt lat="37.87175" lon="-122.25996">
+    <name>WP040</name>
+    <time>2016-07-15T08:26:35Z</time>
+  </wpt>
+  <wpt lat="37.87167" lon="-122.25995">
+    <name>WP041</name>
+    <time>2016-07-15T08:26:46Z</time>
+  </wpt>
+  <wpt lat="37.87071" lon="-122.25961">
+    <name>WP042</name>
+    <time>2016-07-15T08:26:56Z</time>
+  </wpt>
+  <wpt lat="37.87091" lon="-122.25884">
+    <name>WP043</name>
+    <time>2016-07-15T08:27:07Z</time>
+  </wpt>
+  <wpt lat="37.87103" lon="-122.2585">
+    <name>WP044</name>
+    <time>2016-07-15T08:27:18Z</time>
+  </wpt>
+  <wpt lat="37.87114" lon="-122.25826">
+    <name>WP045</name>
+    <time>2016-07-15T08:27:29Z</time>
+  </wpt>
+  <wpt lat="37.87132" lon="-122.25833">
+    <name>WP046</name>
+    <time>2016-07-15T08:27:39Z</time>
+  </wpt>
+  <wpt lat="37.8714" lon="-122.25828">
+    <name>WP047</name>
+    <time>2016-07-15T08:27:50Z</time>
+  </wpt>
+  <wpt lat="37.87156" lon="-122.25818">
+    <name>WP048</name>
+    <time>2016-07-15T08:28:01Z</time>
+  </wpt>
+  <wpt lat="37.87172" lon="-122.25824">
+    <name>WP049</name>
+    <time>2016-07-15T08:28:11Z</time>
+  </wpt>
+  <wpt lat="37.87174" lon="-122.25815">
+    <name>WP050</name>
+    <time>2016-07-15T08:28:22Z</time>
+  </wpt>
+  <wpt lat="37.87183" lon="-122.25812">
+    <name>WP051</name>
+    <time>2016-07-15T08:28:33Z</time>
+  </wpt>
+  <wpt lat="37.87197" lon="-122.25807">
+    <name>WP052</name>
+    <time>2016-07-15T08:28:44Z</time>
+  </wpt>
+  <wpt lat="37.872" lon="-122.25808">
+    <name>WP053</name>
+    <time>2016-07-15T08:28:54Z</time>
+  </wpt>
+  <wpt lat="37.87203" lon="-122.25792">
+    <name>WP054</name>
+    <time>2016-07-15T08:29:05Z</time>
+  </wpt>
+  <wpt lat="37.87206" lon="-122.25793">
+    <name>WP055</name>
+    <time>2016-07-15T08:29:16Z</time>
+  </wpt>
+  <wpt lat="37.8720605" lon="-122.2579356">
+    <name>Gnomon Path</name>
+    <desc>Gnomon Path, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:29:26Z</time>
+  </wpt>
+</gpx>

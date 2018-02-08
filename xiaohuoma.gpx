@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8598778,-122.3260913/37.8626561,-122.3182377/@37.8610552,-122.323806,17z?hl=en</url-->
+    <time>2016-07-13T06:28:34Z</time>
+  </metadata>
+  <wpt lat="37.8598778" lon="-122.3260913">
+    <name>Berkeley Pier</name>
+    <desc>Berkeley Pier, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-13T06:28:34Z</time>
+  </wpt>
+  <wpt lat="37.85989" lon="-122.3261">
+    <name>WP001</name>
+    <time>2016-07-13T06:31:54Z</time>
+  </wpt>
+  <wpt lat="37.86265" lon="-122.31824">
+    <name>WP002</name>
+    <time>2016-07-13T06:35:14Z</time>
+  </wpt>
+  <wpt lat="37.8626561" lon="-122.3182377">
+    <name>Berkeley Pier</name>
+    <desc>Berkeley Pier, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-13T06:38:34Z</time>
+  </wpt>
+</gpx>

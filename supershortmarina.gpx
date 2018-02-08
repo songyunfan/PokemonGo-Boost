@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8663913,-122.3056561/37.8610993,-122.3227157/37.8596763,-122.3162784/37.8662153,-122.3058714/@37.8634892,-122.3185764,16z/data=!3m1!4b1!4m2!4m1!3e2?hl=en</url-->
+    <time>2016-07-13T05:52:01Z</time>
+  </metadata>
+  <wpt lat="37.8663913" lon="-122.3056561">
+    <name>599 University Avenue</name>
+    <desc>599 University Avenue, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-13T05:52:01Z</time>
+  </wpt>
+  <wpt lat="37.86641" lon="-122.30566">
+    <name>WP001</name>
+    <time>2016-07-13T05:52:16Z</time>
+  </wpt>
+  <wpt lat="37.86582" lon="-122.30857">
+    <name>WP002</name>
+    <time>2016-07-13T05:52:31Z</time>
+  </wpt>
+  <wpt lat="37.86539" lon="-122.31064">
+    <name>WP003</name>
+    <time>2016-07-13T05:52:46Z</time>
+  </wpt>
+  <wpt lat="37.86521" lon="-122.31128">
+    <name>WP004</name>
+    <time>2016-07-13T05:53:02Z</time>
+  </wpt>
+  <wpt lat="37.86508" lon="-122.31125">
+    <name>WP005</name>
+    <time>2016-07-13T05:53:17Z</time>
+  </wpt>
+  <wpt lat="37.86495" lon="-122.3113">
+    <name>WP006</name>
+    <time>2016-07-13T05:53:32Z</time>
+  </wpt>
+  <wpt lat="37.86481" lon="-122.31142">
+    <name>WP007</name>
+    <time>2016-07-13T05:53:47Z</time>
+  </wpt>
+  <wpt lat="37.86419" lon="-122.31211">
+    <name>WP008</name>
+    <time>2016-07-13T05:54:03Z</time>
+  </wpt>
+  <wpt lat="37.86412" lon="-122.31223">
+    <name>WP009</name>
+    <time>2016-07-13T05:54:18Z</time>
+  </wpt>
+  <wpt lat="37.86407" lon="-122.31237">
+    <name>WP010</name>
+    <time>2016-07-13T05:54:33Z</time>
+  </wpt>
+  <wpt lat="37.86349" lon="-122.31523">
+    <name>WP011</name>
+    <time>2016-07-13T05:54:48Z</time>
+  </wpt>
+  <wpt lat="37.86334" lon="-122.31598">
+    <name>WP012</name>
+    <time>2016-07-13T05:55:04Z</time>
+  </wpt>
+  <wpt lat="37.86328" lon="-122.31639">
+    <name>WP013</name>
+    <time>2016-07-13T05:55:19Z</time>
+  </wpt>
+  <wpt lat="37.8631" lon="-122.31728">
+    <name>WP014</name>
+    <time>2016-07-13T05:55:34Z</time>
+  </wpt>
+  <wpt lat="37.86308" lon="-122.31747">
+    <name>WP015</name>
+    <time>2016-07-13T05:55:49Z</time>
+  </wpt>
+  <wpt lat="37.86304" lon="-122.31752">
+    <name>WP016</name>
+    <time>2016-07-13T05:56:05Z</time>
+  </wpt>
+  <wpt lat="37.86298" lon="-122.31752">
+    <name>WP017</name>
+    <time>2016-07-13T05:56:20Z</time>
+  </wpt>
+  <wpt lat="37.86292" lon="-122.31749">
+    <name>WP018</name>
+    <time>2016-07-13T05:56:35Z</time>
+  </wpt>
+  <wpt lat="37.85959" lon="-122.32695">
+    <name>WP019</name>
+    <time>2016-07-13T05:56:50Z</time>
+  </wpt>
+  <wpt lat="37.86292" lon="-122.31749">
+    <name>WP020</name>
+    <time>2016-07-13T05:57:06Z</time>
+  </wpt>
+  <wpt lat="37.86283" lon="-122.31744">
+    <name>WP021</name>
+    <time>2016-07-13T05:57:21Z</time>
+  </wpt>
+  <wpt lat="37.86278" lon="-122.31739">
+    <name>WP022</name>
+    <time>2016-07-13T05:57:36Z</time>
+  </wpt>
+  <wpt lat="37.86277" lon="-122.31731">
+    <name>WP023</name>
+    <time>2016-07-13T05:57:51Z</time>
+  </wpt>
+  <wpt lat="37.86281" lon="-122.3172">
+    <name>WP024</name>
+    <time>2016-07-13T05:58:07Z</time>
+  </wpt>
+  <wpt lat="37.85988" lon="-122.31642">
+    <name>WP025</name>
+    <time>2016-07-13T05:58:22Z</time>
+  </wpt>
+  <wpt lat="37.85981" lon="-122.31637">
+    <name>WP026</name>
+    <time>2016-07-13T05:58:37Z</time>
+  </wpt>
+  <wpt lat="37.85969" lon="-122.31644">
+    <name>WP027</name>
+    <time>2016-07-13T05:58:52Z</time>
+  </wpt>
+  <wpt lat="37.85964" lon="-122.31642">
+    <name>WP028</name>
+    <time>2016-07-13T05:59:08Z</time>
+  </wpt>
+  <wpt lat="37.8596" lon="-122.31638">
+    <name>WP029</name>
+    <time>2016-07-13T05:59:23Z</time>
+  </wpt>
+  <wpt lat="37.8596" lon="-122.31631">
+    <name>WP030</name>
+    <time>2016-07-13T05:59:38Z</time>
+  </wpt>
+  <wpt lat="37.85962" lon="-122.31622">
+    <name>WP031</name>
+    <time>2016-07-13T05:59:53Z</time>
+  </wpt>
+  <wpt lat="37.8597" lon="-122.31608">
+    <name>WP032</name>
+    <time>2016-07-13T06:00:09Z</time>
+  </wpt>
+  <wpt lat="37.85978" lon="-122.31608">
+    <name>WP033</name>
+    <time>2016-07-13T06:00:24Z</time>
+  </wpt>
+  <wpt lat="37.85982" lon="-122.31586">
+    <name>WP034</name>
+    <time>2016-07-13T06:00:39Z</time>
+  </wpt>
+  <wpt lat="37.86142" lon="-122.31629">
+    <name>WP035</name>
+    <time>2016-07-13T06:00:54Z</time>
+  </wpt>
+  <wpt lat="37.86165" lon="-122.31633">
+    <name>WP036</name>
+    <time>2016-07-13T06:01:10Z</time>
+  </wpt>
+  <wpt lat="37.86175" lon="-122.31631">
+    <name>WP037</name>
+    <time>2016-07-13T06:01:25Z</time>
+  </wpt>
+  <wpt lat="37.86193" lon="-122.31613">
+    <name>WP038</name>
+    <time>2016-07-13T06:01:40Z</time>
+  </wpt>
+  <wpt lat="37.86212" lon="-122.31594">
+    <name>WP039</name>
+    <time>2016-07-13T06:01:55Z</time>
+  </wpt>
+  <wpt lat="37.86227" lon="-122.31588">
+    <name>WP040</name>
+    <time>2016-07-13T06:02:11Z</time>
+  </wpt>
+  <wpt lat="37.86241" lon="-122.31583">
+    <name>WP041</name>
+    <time>2016-07-13T06:02:26Z</time>
+  </wpt>
+  <wpt lat="37.86253" lon="-122.3157">
+    <name>WP042</name>
+    <time>2016-07-13T06:02:41Z</time>
+  </wpt>
+  <wpt lat="37.86265" lon="-122.31552">
+    <name>WP043</name>
+    <time>2016-07-13T06:02:56Z</time>
+  </wpt>
+  <wpt lat="37.86271" lon="-122.31528">
+    <name>WP044</name>
+    <time>2016-07-13T06:03:12Z</time>
+  </wpt>
+  <wpt lat="37.86298" lon="-122.31533">
+    <name>WP045</name>
+    <time>2016-07-13T06:03:27Z</time>
+  </wpt>
+  <wpt lat="37.86305" lon="-122.31532">
+    <name>WP046</name>
+    <time>2016-07-13T06:03:42Z</time>
+  </wpt>
+  <wpt lat="37.86326" lon="-122.31526">
+    <name>WP047</name>
+    <time>2016-07-13T06:03:57Z</time>
+  </wpt>
+  <wpt lat="37.86347" lon="-122.31531">
+    <name>WP048</name>
+    <time>2016-07-13T06:04:13Z</time>
+  </wpt>
+  <wpt lat="37.86369" lon="-122.31423">
+    <name>WP049</name>
+    <time>2016-07-13T06:04:28Z</time>
+  </wpt>
+  <wpt lat="37.86409" lon="-122.3123">
+    <name>WP050</name>
+    <time>2016-07-13T06:04:43Z</time>
+  </wpt>
+  <wpt lat="37.86415" lon="-122.31217">
+    <name>WP051</name>
+    <time>2016-07-13T06:04:58Z</time>
+  </wpt>
+  <wpt lat="37.86462" lon="-122.31162">
+    <name>WP052</name>
+    <time>2016-07-13T06:05:14Z</time>
+  </wpt>
+  <wpt lat="37.86487" lon="-122.31135">
+    <name>WP053</name>
+    <time>2016-07-13T06:05:29Z</time>
+  </wpt>
+  <wpt lat="37.86496" lon="-122.31118">
+    <name>WP054</name>
+    <time>2016-07-13T06:05:44Z</time>
+  </wpt>
+  <wpt lat="37.86511" lon="-122.31096">
+    <name>WP055</name>
+    <time>2016-07-13T06:05:59Z</time>
+  </wpt>
+  <wpt lat="37.86518" lon="-122.31075">
+    <name>WP056</name>
+    <time>2016-07-13T06:06:15Z</time>
+  </wpt>
+  <wpt lat="37.86593" lon="-122.30708">
+    <name>WP057</name>
+    <time>2016-07-13T06:06:30Z</time>
+  </wpt>
+  <wpt lat="37.86619" lon="-122.30586">
+    <name>WP058</name>
+    <time>2016-07-13T06:06:45Z</time>
+  </wpt>
+  <wpt lat="37.8662153" lon="-122.3058714">
+    <name>500-538 University Avenue</name>
+    <desc>500-538 University Avenue, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-13T06:07:00Z</time>
+  </wpt>
+</gpx>

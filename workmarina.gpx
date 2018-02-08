@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/2036 Bancroft Way, Berkeley, CA 94704/Berkeley Marina, Berkeley, CA/37.8740022,-122.3197356/37.8728504,-122.3224822/37.8698015,-122.3199931/37.8629578,-122.3171607/37.867159,-122.2690955/@37.8667524,-122.3066035,14z/data=!4m19!4m18!1m5!1m1!1s0x80857e9ce0de32bd:0xd4209314a5e3fad8!2m2!1d-122.2684933!2d37.8673675!1m5!1m1!1s0x80857f208a28844d:0x8f075afad3c60c60!2m2!1d-122.3093344!2d37.8666298!1m0!1m0!1m0!1m0!1m0!3e2?hl=en</url-->
+    <time>2016-07-12T18:34:36Z</time>
+  </metadata>
+  <wpt lat="37.8673675" lon="-122.2684933">
+    <name>2036 Bancroft Way</name>
+    <desc>2036 Bancroft Way, Berkeley, CA 94704, USA</desc>
+  </wpt>
+  <wpt lat="37.8674962" lon="-122.2685167">
+    <name>WP001</name>
+    <time>2016-07-12T18:34:36Z</time>
+  </wpt>
+  <wpt lat="37.8670309" lon="-122.2863829">
+    <name>WP002</name>
+    <time>2016-07-12T18:38:36Z</time>
+  </wpt>
+  <wpt lat="37.8666053" lon="-122.3058303">
+    <name>WP003</name>
+    <time>2016-07-12T18:40:36Z</time>
+  </wpt>
+  <wpt lat="37.8708467" lon="-122.3147043">
+    <name>WP004</name>
+    <time>2016-07-12T18:46:36Z</time>
+  </wpt>
+  <wpt lat="37.8733379" lon="-122.3208052">
+    <name>WP005</name>
+    <time>2016-07-12T18:57:36Z</time>
+  </wpt>
+  <wpt lat="37.8638764" lon="-122.3167963">
+    <name>WP006</name>
+    <time>2016-07-12T19:13:36Z</time>
+  </wpt>
+  <wpt lat="37.865729" lon="-122.302119">
+    <name>WP007</name>
+    <time>2016-07-12T19:19:36Z</time>
+  </wpt>
+  <wpt lat="37.867159" lon="-122.2690955">
+    <name>2020 Bancroft Way</name>
+    <time>2016-07-12T19:28:36Z</time>
+    <desc>2020 Bancroft Way, Berkeley, CA 94704, USA</desc>
+  </wpt>
+</gpx>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8595865,-122.3269125/37.8628376,-122.3172324/@37.8622617,-122.3197858,17z/data=!4m2!4m1!3e2?hl=en</url-->
+    <time>2016-07-21T02:21:52Z</time>
+  </metadata>
+  <wpt lat="37.8595865" lon="-122.3269125">
+    <name>Berkeley Pier</name>
+    <desc>Berkeley Pier, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-21T02:21:52Z</time>
+  </wpt>
+  <wpt lat="37.8595958" lon="-122.3269178">
+    <name>WP001</name>
+    <time>2016-07-21T02:22:13Z</time>
+  </wpt>
+  <wpt lat="37.86292" lon="-122.31749">
+    <name>WP002</name>
+    <time>2016-07-21T02:22:34Z</time>
+  </wpt>
+  <wpt lat="37.8629166" lon="-122.3174872">
+    <name>WP003</name>
+    <time>2016-07-21T02:22:56Z</time>
+  </wpt>
+  <wpt lat="37.86283" lon="-122.31744">
+    <name>WP004</name>
+    <time>2016-07-21T02:23:17Z</time>
+  </wpt>
+  <wpt lat="37.8628" lon="-122.31742">
+    <name>WP005</name>
+    <time>2016-07-21T02:23:39Z</time>
+  </wpt>
+  <wpt lat="37.86278" lon="-122.31739">
+    <name>WP006</name>
+    <time>2016-07-21T02:24:00Z</time>
+  </wpt>
+  <wpt lat="37.86277" lon="-122.31735">
+    <name>WP007</name>
+    <time>2016-07-21T02:24:22Z</time>
+  </wpt>
+  <wpt lat="37.86277" lon="-122.31731">
+    <name>WP008</name>
+    <time>2016-07-21T02:24:43Z</time>
+  </wpt>
+  <wpt lat="37.86278" lon="-122.31727">
+    <name>WP009</name>
+    <time>2016-07-21T02:25:04Z</time>
+  </wpt>
+  <wpt lat="37.86281" lon="-122.3172">
+    <name>WP010</name>
+    <time>2016-07-21T02:25:26Z</time>
+  </wpt>
+  <wpt lat="37.8628076" lon="-122.3172042">
+    <name>WP011</name>
+    <time>2016-07-21T02:25:47Z</time>
+  </wpt>
+  <wpt lat="37.86284" lon="-122.31721">
+    <name>WP012</name>
+    <time>2016-07-21T02:26:09Z</time>
+  </wpt>
+  <wpt lat="37.8628408" lon="-122.3172132">
+    <name>WP013</name>
+    <time>2016-07-21T02:26:30Z</time>
+  </wpt>
+  <wpt lat="37.8628376" lon="-122.3172324">
+    <name>100 Seawall Drive</name>
+    <desc>100 Seawall Drive, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-21T02:26:52Z</time>
+  </wpt>
+</gpx>

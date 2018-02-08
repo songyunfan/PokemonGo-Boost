@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data ©2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8736084,-122.2651022/37.8723889,-122.2636324/@37.8731596,-122.2673553,17z?hl=en</url-->
+    <time>2016-07-20T21:44:54Z</time>
+  </metadata>
+  <wpt lat="37.8736084" lon="-122.2651022">
+    <name>Bayard Rustin Way</name>
+    <desc>Bayard Rustin Way, Berkeley, CA 94709, USA</desc>
+    <time>2016-07-20T21:44:54Z</time>
+  </wpt>
+  <wpt lat="37.8736049" lon="-122.2650862">
+    <name>WP001</name>
+    <time>2016-07-20T21:45:06Z</time>
+  </wpt>
+  <wpt lat="37.87329" lon="-122.26504">
+    <name>WP002</name>
+    <time>2016-07-20T21:45:18Z</time>
+  </wpt>
+  <wpt lat="37.8732895" lon="-122.2650425">
+    <name>WP003</name>
+    <time>2016-07-20T21:45:30Z</time>
+  </wpt>
+  <wpt lat="37.87331" lon="-122.26473">
+    <name>WP004</name>
+    <time>2016-07-20T21:45:42Z</time>
+  </wpt>
+  <wpt lat="37.87313" lon="-122.26471">
+    <name>WP005</name>
+    <time>2016-07-20T21:45:54Z</time>
+  </wpt>
+  <wpt lat="37.87297" lon="-122.26447">
+    <name>WP006</name>
+    <time>2016-07-20T21:46:06Z</time>
+  </wpt>
+  <wpt lat="37.87289" lon="-122.26436">
+    <name>WP007</name>
+    <time>2016-07-20T21:46:18Z</time>
+  </wpt>
+  <wpt lat="37.8728933" lon="-122.2643614">
+    <name>WP008</name>
+    <time>2016-07-20T21:46:30Z</time>
+  </wpt>
+  <wpt lat="37.87292" lon="-122.26391">
+    <name>WP009</name>
+    <time>2016-07-20T21:46:42Z</time>
+  </wpt>
+  <wpt lat="37.87292" lon="-122.2639">
+    <name>WP010</name>
+    <time>2016-07-20T21:46:54Z</time>
+  </wpt>
+  <wpt lat="37.87291" lon="-122.26388">
+    <name>WP011</name>
+    <time>2016-07-20T21:47:06Z</time>
+  </wpt>
+  <wpt lat="37.87291" lon="-122.26387">
+    <name>WP012</name>
+    <time>2016-07-20T21:47:18Z</time>
+  </wpt>
+  <wpt lat="37.87291" lon="-122.26385">
+    <name>WP013</name>
+    <time>2016-07-20T21:47:30Z</time>
+  </wpt>
+  <wpt lat="37.8729" lon="-122.26383">
+    <name>WP014</name>
+    <time>2016-07-20T21:47:42Z</time>
+  </wpt>
+  <wpt lat="37.87289" lon="-122.26379">
+    <name>WP015</name>
+    <time>2016-07-20T21:47:54Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.26376">
+    <name>WP016</name>
+    <time>2016-07-20T21:48:06Z</time>
+  </wpt>
+  <wpt lat="37.87285" lon="-122.26374">
+    <name>WP017</name>
+    <time>2016-07-20T21:48:18Z</time>
+  </wpt>
+  <wpt lat="37.87282" lon="-122.26371">
+    <name>WP018</name>
+    <time>2016-07-20T21:48:30Z</time>
+  </wpt>
+  <wpt lat="37.8728" lon="-122.2637">
+    <name>WP019</name>
+    <time>2016-07-20T21:48:42Z</time>
+  </wpt>
+  <wpt lat="37.87276" lon="-122.26368">
+    <name>WP020</name>
+    <time>2016-07-20T21:48:54Z</time>
+  </wpt>
+  <wpt lat="37.87271" lon="-122.26366">
+    <name>WP021</name>
+    <time>2016-07-20T21:49:06Z</time>
+  </wpt>
+  <wpt lat="37.87267" lon="-122.26366">
+    <name>WP022</name>
+    <time>2016-07-20T21:49:18Z</time>
+  </wpt>
+  <wpt lat="37.87239" lon="-122.26364">
+    <name>WP023</name>
+    <time>2016-07-20T21:49:30Z</time>
+  </wpt>
+  <wpt lat="37.8723887" lon="-122.2636367">
+    <name>WP024</name>
+    <time>2016-07-20T21:49:42Z</time>
+  </wpt>
+  <wpt lat="37.8723889" lon="-122.2636324">
+    <name>Hilgard Way</name>
+    <desc>Hilgard Way, Berkeley, CA 94709, USA</desc>
+    <time>2016-07-20T21:49:54Z</time>
+  </wpt>
+</gpx>

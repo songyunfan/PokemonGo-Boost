@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.872458,-122.2579665/37.8722378,-122.2584171/37.8723902,-122.2581811/@37.8724656,-122.2586873,19z/data=!3m1!4b1!4m2!4m1!3e2?hl=en</url-->
+    <time>2016-07-15T08:10:22Z</time>
+  </metadata>
+  <wpt lat="37.872458" lon="-122.2579665">
+    <name>Carillon Road</name>
+    <desc>Carillon Road, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:10:22Z</time>
+  </wpt>
+  <wpt lat="37.87245" lon="-122.25797">
+    <name>WP001</name>
+    <time>2016-07-15T08:10:49Z</time>
+  </wpt>
+  <wpt lat="37.8729" lon="-122.25814">
+    <name>WP002</name>
+    <time>2016-07-15T08:11:16Z</time>
+  </wpt>
+  <wpt lat="37.87285" lon="-122.25825">
+    <name>WP003</name>
+    <time>2016-07-15T08:11:43Z</time>
+  </wpt>
+  <wpt lat="37.87277" lon="-122.25864">
+    <name>WP004</name>
+    <time>2016-07-15T08:12:11Z</time>
+  </wpt>
+  <wpt lat="37.87213" lon="-122.25839">
+    <name>WP005</name>
+    <time>2016-07-15T08:12:38Z</time>
+  </wpt>
+  <wpt lat="37.87217" lon="-122.25833">
+    <name>WP006</name>
+    <time>2016-07-15T08:13:05Z</time>
+  </wpt>
+  <wpt lat="37.87232" lon="-122.25824">
+    <name>WP007</name>
+    <time>2016-07-15T08:13:32Z</time>
+  </wpt>
+  <wpt lat="37.87235" lon="-122.25821">
+    <name>WP008</name>
+    <time>2016-07-15T08:14:00Z</time>
+  </wpt>
+  <wpt lat="37.87239" lon="-122.25823">
+    <name>WP009</name>
+    <time>2016-07-15T08:14:27Z</time>
+  </wpt>
+  <wpt lat="37.8724" lon="-122.25819">
+    <name>WP010</name>
+    <time>2016-07-15T08:14:54Z</time>
+  </wpt>
+  <wpt lat="37.8723902" lon="-122.2581811">
+    <name>South Hall Road</name>
+    <desc>South Hall Road, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:15:21Z</time>
+  </wpt>
+</gpx>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8730042,-122.2587336/Memorial Glade, Berkeley, CA 94708/37.8734934,-122.2591788/37.8733536,-122.2599405/@37.8730741,-122.2601712,18z/data=!4m11!4m10!1m0!1m5!1m1!1s0x80857c24036b1d5b:0x7724c982640078f4!2m2!1d-122.2594471!2d37.8730593!1m0!1m0!3e2?hl=en</url-->
+    <time>2016-07-16T07:42:02Z</time>
+  </metadata>
+  <wpt lat="37.8730042" lon="-122.2587336">
+    <name>University Drive</name>
+    <desc>University Drive, Berkeley, CA 94709, USA</desc>
+    <time>2016-07-16T07:42:02Z</time>
+  </wpt>
+  <wpt lat="37.87301" lon="-122.25872">
+    <name>WP001</name>
+    <time>2016-07-16T07:42:11Z</time>
+  </wpt>
+  <wpt lat="37.87298" lon="-122.25871">
+    <name>WP002</name>
+    <time>2016-07-16T07:42:21Z</time>
+  </wpt>
+  <wpt lat="37.87297" lon="-122.25874">
+    <name>WP003</name>
+    <time>2016-07-16T07:42:31Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.25927">
+    <name>WP004</name>
+    <time>2016-07-16T07:42:40Z</time>
+  </wpt>
+  <wpt lat="37.87289" lon="-122.25957">
+    <name>WP005</name>
+    <time>2016-07-16T07:42:50Z</time>
+  </wpt>
+  <wpt lat="37.87296" lon="-122.25982">
+    <name>WP006</name>
+    <time>2016-07-16T07:43:00Z</time>
+  </wpt>
+  <wpt lat="37.87304" lon="-122.26001">
+    <name>WP007</name>
+    <time>2016-07-16T07:43:09Z</time>
+  </wpt>
+  <wpt lat="37.87314" lon="-122.25998">
+    <name>WP008</name>
+    <time>2016-07-16T07:43:19Z</time>
+  </wpt>
+  <wpt lat="37.87336" lon="-122.25991">
+    <name>WP009</name>
+    <time>2016-07-16T07:43:29Z</time>
+  </wpt>
+  <wpt lat="37.87338" lon="-122.25986">
+    <name>WP010</name>
+    <time>2016-07-16T07:43:38Z</time>
+  </wpt>
+  <wpt lat="37.8735" lon="-122.25964">
+    <name>WP011</name>
+    <time>2016-07-16T07:43:48Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25954">
+    <name>WP012</name>
+    <time>2016-07-16T07:43:58Z</time>
+  </wpt>
+  <wpt lat="37.87354" lon="-122.25939">
+    <name>WP013</name>
+    <time>2016-07-16T07:44:07Z</time>
+  </wpt>
+  <wpt lat="37.87353" lon="-122.25928">
+    <name>WP014</name>
+    <time>2016-07-16T07:44:17Z</time>
+  </wpt>
+  <wpt lat="37.87349" lon="-122.25914">
+    <name>WP015</name>
+    <time>2016-07-16T07:44:27Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25907">
+    <name>WP016</name>
+    <time>2016-07-16T07:44:36Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25897">
+    <name>WP017</name>
+    <time>2016-07-16T07:44:46Z</time>
+  </wpt>
+  <wpt lat="37.87354" lon="-122.25883">
+    <name>WP018</name>
+    <time>2016-07-16T07:44:56Z</time>
+  </wpt>
+  <wpt lat="37.87351" lon="-122.25882">
+    <name>WP019</name>
+    <time>2016-07-16T07:45:05Z</time>
+  </wpt>
+  <wpt lat="37.87341" lon="-122.25882">
+    <name>WP020</name>
+    <time>2016-07-16T07:45:15Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25897">
+    <name>WP021</name>
+    <time>2016-07-16T07:45:25Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.259">
+    <name>WP022</name>
+    <time>2016-07-16T07:45:34Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25905">
+    <name>WP023</name>
+    <time>2016-07-16T07:45:44Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25909">
+    <name>WP024</name>
+    <time>2016-07-16T07:45:54Z</time>
+  </wpt>
+  <wpt lat="37.87349" lon="-122.25914">
+    <name>WP025</name>
+    <time>2016-07-16T07:46:03Z</time>
+  </wpt>
+  <wpt lat="37.87352" lon="-122.25922">
+    <name>WP026</name>
+    <time>2016-07-16T07:46:13Z</time>
+  </wpt>
+  <wpt lat="37.87354" lon="-122.25932">
+    <name>WP027</name>
+    <time>2016-07-16T07:46:23Z</time>
+  </wpt>
+  <wpt lat="37.87353" lon="-122.25945">
+    <name>WP028</name>
+    <time>2016-07-16T07:46:32Z</time>
+  </wpt>
+  <wpt lat="37.8735" lon="-122.25964">
+    <name>WP029</name>
+    <time>2016-07-16T07:46:42Z</time>
+  </wpt>
+  <wpt lat="37.87336" lon="-122.25991">
+    <name>WP030</name>
+    <time>2016-07-16T07:46:52Z</time>
+  </wpt>
+  <wpt lat="37.8733536" lon="-122.2599405">
+    <name>University Drive</name>
+    <desc>University Drive, Berkeley, CA 94709, USA</desc>
+    <time>2016-07-16T07:47:02Z</time>
+  </wpt>
+</gpx>

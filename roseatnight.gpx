@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8866126,-122.2623612/37.8867227,-122.2609235/37.8855541,-122.2626187/Rose Garden Tennis Courts/@37.8855795,-122.262683,17z/data=!4m11!4m10!1m0!1m0!1m0!1m5!1m1!1s0x0:0x892e285302b4b1f3!2m2!1d-122.2631732!2d37.8857501!3e2?hl=en</url-->
+    <time>2016-07-15T09:31:59Z</time>
+  </metadata>
+  <wpt lat="37.8866126" lon="-122.2623612">
+    <name>1199 Euclid Avenue</name>
+    <desc>1199 Euclid Avenue, Berkeley, CA 94708, USA</desc>
+    <time>2016-07-15T09:31:59Z</time>
+  </wpt>
+  <wpt lat="37.8866" lon="-122.26237">
+    <name>WP001</name>
+    <time>2016-07-15T09:32:32Z</time>
+  </wpt>
+  <wpt lat="37.88665" lon="-122.26235">
+    <name>WP002</name>
+    <time>2016-07-15T09:33:05Z</time>
+  </wpt>
+  <wpt lat="37.88678" lon="-122.26106">
+    <name>WP003</name>
+    <time>2016-07-15T09:33:38Z</time>
+  </wpt>
+  <wpt lat="37.88678" lon="-122.26102">
+    <name>WP004</name>
+    <time>2016-07-15T09:34:12Z</time>
+  </wpt>
+  <wpt lat="37.88671" lon="-122.26091">
+    <name>WP005</name>
+    <time>2016-07-15T09:34:45Z</time>
+  </wpt>
+  <wpt lat="37.88633" lon="-122.26164">
+    <name>WP006</name>
+    <time>2016-07-15T09:35:18Z</time>
+  </wpt>
+  <wpt lat="37.88624" lon="-122.26182">
+    <name>WP007</name>
+    <time>2016-07-15T09:35:52Z</time>
+  </wpt>
+  <wpt lat="37.88622" lon="-122.26183">
+    <name>WP008</name>
+    <time>2016-07-15T09:36:25Z</time>
+  </wpt>
+  <wpt lat="37.88608" lon="-122.26183">
+    <name>WP009</name>
+    <time>2016-07-15T09:36:58Z</time>
+  </wpt>
+  <wpt lat="37.88603" lon="-122.26186">
+    <name>WP010</name>
+    <time>2016-07-15T09:37:32Z</time>
+  </wpt>
+  <wpt lat="37.88592" lon="-122.26196">
+    <name>WP011</name>
+    <time>2016-07-15T09:38:05Z</time>
+  </wpt>
+  <wpt lat="37.8858" lon="-122.26197">
+    <name>WP012</name>
+    <time>2016-07-15T09:38:38Z</time>
+  </wpt>
+  <wpt lat="37.88559" lon="-122.26203">
+    <name>WP013</name>
+    <time>2016-07-15T09:39:12Z</time>
+  </wpt>
+  <wpt lat="37.88552" lon="-122.2621">
+    <name>WP014</name>
+    <time>2016-07-15T09:39:45Z</time>
+  </wpt>
+  <wpt lat="37.8855" lon="-122.26225">
+    <name>WP015</name>
+    <time>2016-07-15T09:40:18Z</time>
+  </wpt>
+  <wpt lat="37.88551" lon="-122.26246">
+    <name>WP016</name>
+    <time>2016-07-15T09:40:52Z</time>
+  </wpt>
+  <wpt lat="37.88555" lon="-122.26265">
+    <name>WP017</name>
+    <time>2016-07-15T09:41:25Z</time>
+  </wpt>
+  <wpt lat="37.8857501" lon="-122.2631732">
+    <name>Rose Garden Tennis Courts</name>
+    <desc>Rose Garden Tennis Courts, 1200 Euclid Avenue, Berkeley, CA 94708, United States</desc>
+    <time>2016-07-15T09:41:58Z</time>
+  </wpt>
+</gpx>

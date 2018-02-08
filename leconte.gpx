@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.872458,-122.2579665/Memorial Glade, Berkeley, CA 94708/37.8722378,-122.2584171/37.8723902,-122.2581811/@37.8730593,-122.2616358,17z/data=!4m11!4m10!1m0!1m5!1m1!1s0x80857c24036b1d5b:0x7724c982640078f4!2m2!1d-122.2594471!2d37.8730593!1m0!1m0!3e2?hl=en</url-->
+    <time>2016-07-15T08:05:41Z</time>
+  </metadata>
+  <wpt lat="37.872458" lon="-122.2579665">
+    <name>Carillon Road</name>
+    <desc>Carillon Road, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:05:41Z</time>
+  </wpt>
+  <wpt lat="37.87245" lon="-122.25797">
+    <name>WP001</name>
+    <time>2016-07-15T08:06:04Z</time>
+  </wpt>
+  <wpt lat="37.87295" lon="-122.25815">
+    <name>WP002</name>
+    <time>2016-07-15T08:06:27Z</time>
+  </wpt>
+  <wpt lat="37.87311" lon="-122.25811">
+    <name>WP003</name>
+    <time>2016-07-15T08:06:50Z</time>
+  </wpt>
+  <wpt lat="37.873" lon="-122.25861">
+    <name>WP004</name>
+    <time>2016-07-15T08:07:13Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.25927">
+    <name>WP005</name>
+    <time>2016-07-15T08:07:36Z</time>
+  </wpt>
+  <wpt lat="37.87289" lon="-122.25957">
+    <name>WP006</name>
+    <time>2016-07-15T08:07:59Z</time>
+  </wpt>
+  <wpt lat="37.87291" lon="-122.25965">
+    <name>WP007</name>
+    <time>2016-07-15T08:08:22Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.25988">
+    <name>WP008</name>
+    <time>2016-07-15T08:08:45Z</time>
+  </wpt>
+  <wpt lat="37.87279" lon="-122.26012">
+    <name>WP009</name>
+    <time>2016-07-15T08:09:08Z</time>
+  </wpt>
+  <wpt lat="37.8727" lon="-122.25996">
+    <name>WP010</name>
+    <time>2016-07-15T08:09:31Z</time>
+  </wpt>
+  <wpt lat="37.87269" lon="-122.25986">
+    <name>WP011</name>
+    <time>2016-07-15T08:09:54Z</time>
+  </wpt>
+  <wpt lat="37.87273" lon="-122.25975">
+    <name>WP012</name>
+    <time>2016-07-15T08:10:17Z</time>
+  </wpt>
+  <wpt lat="37.87275" lon="-122.25959">
+    <name>WP013</name>
+    <time>2016-07-15T08:10:41Z</time>
+  </wpt>
+  <wpt lat="37.87277" lon="-122.25951">
+    <name>WP014</name>
+    <time>2016-07-15T08:11:04Z</time>
+  </wpt>
+  <wpt lat="37.8728" lon="-122.25946">
+    <name>WP015</name>
+    <time>2016-07-15T08:11:27Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.25939">
+    <name>WP016</name>
+    <time>2016-07-15T08:11:50Z</time>
+  </wpt>
+  <wpt lat="37.87287" lon="-122.25935">
+    <name>WP017</name>
+    <time>2016-07-15T08:12:13Z</time>
+  </wpt>
+  <wpt lat="37.87289" lon="-122.25917">
+    <name>WP018</name>
+    <time>2016-07-15T08:12:36Z</time>
+  </wpt>
+  <wpt lat="37.87298" lon="-122.25871">
+    <name>WP019</name>
+    <time>2016-07-15T08:12:59Z</time>
+  </wpt>
+  <wpt lat="37.87255" lon="-122.25856">
+    <name>WP020</name>
+    <time>2016-07-15T08:13:22Z</time>
+  </wpt>
+  <wpt lat="37.87213" lon="-122.25839">
+    <name>WP021</name>
+    <time>2016-07-15T08:13:45Z</time>
+  </wpt>
+  <wpt lat="37.87217" lon="-122.25833">
+    <name>WP022</name>
+    <time>2016-07-15T08:14:08Z</time>
+  </wpt>
+  <wpt lat="37.87235" lon="-122.25821">
+    <name>WP023</name>
+    <time>2016-07-15T08:14:31Z</time>
+  </wpt>
+  <wpt lat="37.87239" lon="-122.25823">
+    <name>WP024</name>
+    <time>2016-07-15T08:14:54Z</time>
+  </wpt>
+  <wpt lat="37.8724" lon="-122.25819">
+    <name>WP025</name>
+    <time>2016-07-15T08:15:17Z</time>
+  </wpt>
+  <wpt lat="37.8723902" lon="-122.2581811">
+    <name>South Hall Road</name>
+    <desc>South Hall Road, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T08:15:41Z</time>
+  </wpt>
+</gpx>

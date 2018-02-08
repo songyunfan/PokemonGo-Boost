@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8754692,-122.2588717/37.875935,-122.2584747/@37.875393,-122.2614788,17z?hl=en</url-->
+    <time>2016-07-15T09:15:58Z</time>
+  </metadata>
+  <wpt lat="37.8754692" lon="-122.2588717">
+    <name>Soda Hall</name>
+    <desc>Soda Hall, Berkeley, CA 94709, USA</desc>
+    <time>2016-07-15T09:15:58Z</time>
+  </wpt>
+  <wpt lat="37.87526" lon="-122.25883">
+    <name>WP001</name>
+    <time>2016-07-15T09:16:58Z</time>
+  </wpt>
+  <wpt lat="37.87531" lon="-122.25848">
+    <name>WP002</name>
+    <time>2016-07-15T09:17:58Z</time>
+  </wpt>
+  <wpt lat="37.87534" lon="-122.25831">
+    <name>WP003</name>
+    <time>2016-07-15T09:18:58Z</time>
+  </wpt>
+  <wpt lat="37.87594" lon="-122.25844">
+    <name>WP004</name>
+    <time>2016-07-15T09:19:58Z</time>
+  </wpt>
+  <wpt lat="37.875935" lon="-122.2584747">
+    <name>1860 Leroy Avenue</name>
+    <desc>1860 Leroy Avenue, Berkeley, CA 94720, USA</desc>
+    <time>2016-07-15T09:20:58Z</time>
+  </wpt>
+</gpx>

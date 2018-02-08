@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/37.8630119,-122.3173151/37.8628637,-122.3176262/@37.8632829,-122.3192731,18z?hl=en</url-->
+    <time>2016-07-13T06:17:15Z</time>
+  </metadata>
+  <wpt lat="37.8630119" lon="-122.3173151">
+    <name>100 Seawall Drive</name>
+    <desc>100 Seawall Drive, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-13T06:17:15Z</time>
+  </wpt>
+  <wpt lat="37.86302" lon="-122.31726">
+    <name>WP001</name>
+    <time>2016-07-13T06:19:07Z</time>
+  </wpt>
+  <wpt lat="37.8631" lon="-122.31728">
+    <name>WP002</name>
+    <time>2016-07-13T06:21:00Z</time>
+  </wpt>
+  <wpt lat="37.8631" lon="-122.31742">
+    <name>WP003</name>
+    <time>2016-07-13T06:22:52Z</time>
+  </wpt>
+  <wpt lat="37.86306" lon="-122.3175">
+    <name>WP004</name>
+    <time>2016-07-13T06:24:45Z</time>
+  </wpt>
+  <wpt lat="37.86301" lon="-122.31753">
+    <name>WP005</name>
+    <time>2016-07-13T06:26:37Z</time>
+  </wpt>
+  <wpt lat="37.86292" lon="-122.31749">
+    <name>WP006</name>
+    <time>2016-07-13T06:28:30Z</time>
+  </wpt>
+  <wpt lat="37.86287" lon="-122.31763">
+    <name>WP007</name>
+    <time>2016-07-13T06:30:22Z</time>
+  </wpt>
+  <wpt lat="37.8628637" lon="-122.3176262">
+    <name>Berkeley Pier</name>
+    <desc>Berkeley Pier, Berkeley, CA 94710, USA</desc>
+    <time>2016-07-13T06:32:15Z</time>
+  </wpt>
+</gpx>

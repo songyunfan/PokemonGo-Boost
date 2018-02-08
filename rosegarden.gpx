@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="mapstogpx.com" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.mapstogpx.com">
+      <text>Sverrir Sigmundarson</text>
+    </link>
+    <!--desc>Map data copyright 2016 Google</desc-->
+    <!--copyright author="Google Inc">
+    	<year>2016</year>
+    	<license>https://developers.google.com/maps/terms</license>
+    </copyright-->
+    <!--url>https://www.google.co.uk/maps/dir/1555 Oxford Street, Berkeley, CA/37.8743638,-122.2662894/Memorial Glade/37.8853048,-122.2626845/37.8793296,-122.2669471/@37.8796817,-122.2683258,16.67z/data=!4m17!4m16!1m5!1m1!1s0x80857ea08ca5fe2f:0xbe98540d8a7278b8!2m2!1d-122.2667615!2d37.8787929!1m0!1m5!1m1!1s0x0:0x7724c982640078f4!2m2!1d-122.2594471!2d37.8730593!1m0!1m0!3e2?hl=en</url-->
+    <time>2016-07-12T06:22:38Z</time>
+  </metadata>
+  <wpt lat="37.8787929" lon="-122.2667615">
+    <name>1555 Oxford Street</name>
+    <desc>1555 Oxford St, Berkeley, CA 94709, USA</desc>
+  </wpt>
+  <wpt lat="37.8787853" lon="-122.2668683">
+    <name>WP001</name>
+    <time>2016-07-12T06:22:38Z</time>
+  </wpt>
+  <wpt lat="37.8743655" lon="-122.2663465">
+    <name>WP002</name>
+    <time>2016-07-12T06:23:38Z</time>
+  </wpt>
+  <wpt lat="37.8741388" lon="-122.2663575">
+    <name>WP003</name>
+    <time>2016-07-12T06:24:38Z</time>
+  </wpt>
+  <wpt lat="37.8745061" lon="-122.2641818">
+    <name>WP004</name>
+    <time>2016-07-12T06:25:38Z</time>
+  </wpt>
+  <wpt lat="37.8728818" lon="-122.2633526">
+    <name>WP005</name>
+    <time>2016-07-12T06:26:38Z</time>
+  </wpt>
+  <wpt lat="37.8729354" lon="-122.263033">
+    <name>WP006</name>
+    <time>2016-07-12T06:27:38Z</time>
+  </wpt>
+  <wpt lat="37.8727065" lon="-122.2628331">
+    <name>WP007</name>
+    <time>2016-07-12T06:28:38Z</time>
+  </wpt>
+  <wpt lat="37.8728074" lon="-122.262369">
+    <name>WP008</name>
+    <time>2016-07-12T06:29:38Z</time>
+  </wpt>
+  <wpt lat="37.8724288" lon="-122.261857">
+    <name>WP009</name>
+    <time>2016-07-12T06:30:38Z</time>
+  </wpt>
+  <wpt lat="37.8724529" lon="-122.2617721">
+    <name>WP010</name>
+    <time>2016-07-12T06:31:38Z</time>
+  </wpt>
+  <wpt lat="37.8721043" lon="-122.2612101">
+    <name>WP011</name>
+    <time>2016-07-12T06:32:38Z</time>
+  </wpt>
+  <wpt lat="37.8724286" lon="-122.2601899">
+    <name>WP012</name>
+    <time>2016-07-12T06:33:38Z</time>
+  </wpt>
+  <wpt lat="37.8727863" lon="-122.2601162">
+    <name>WP013</name>
+    <time>2016-07-12T06:34:38Z</time>
+  </wpt>
+  <wpt lat="37.87288" lon="-122.2594992">
+    <name>WP014</name>
+    <time>2016-07-12T06:35:38Z</time>
+  </wpt>
+  <wpt lat="37.8729056" lon="-122.2596459">
+    <name>WP015</name>
+    <time>2016-07-12T06:36:38Z</time>
+  </wpt>
+  <wpt lat="37.8730403" lon="-122.2600098">
+    <name>WP016</name>
+    <time>2016-07-12T06:37:38Z</time>
+  </wpt>
+  <wpt lat="37.873356" lon="-122.2599111">
+    <name>WP017</name>
+    <time>2016-07-12T06:38:38Z</time>
+  </wpt>
+  <wpt lat="37.8734996" lon="-122.2596361">
+    <name>WP018</name>
+    <time>2016-07-12T06:39:38Z</time>
+  </wpt>
+  <wpt lat="37.8751149" lon="-122.2601603">
+    <name>WP019</name>
+    <time>2016-07-12T06:40:38Z</time>
+  </wpt>
+  <wpt lat="37.8853106" lon="-122.2627144">
+    <name>WP020</name>
+    <time>2016-07-12T06:41:38Z</time>
+  </wpt>
+  <wpt lat="37.8843389" lon="-122.2627097">
+    <name>WP021</name>
+    <time>2016-07-12T06:42:38Z</time>
+  </wpt>
+  <wpt lat="37.8834368" lon="-122.2634877">
+    <name>WP022</name>
+    <time>2016-07-12T06:43:38Z</time>
+  </wpt>
+  <wpt lat="37.8809679" lon="-122.263651">
+    <name>WP023</name>
+    <time>2016-07-12T06:44:38Z</time>
+  </wpt>
+  <wpt lat="37.8805159" lon="-122.2670654">
+    <name>WP024</name>
+    <time>2016-07-12T06:45:38Z</time>
+  </wpt>
+  <wpt lat="37.8793296" lon="-122.2669471">
+    <name>1528 Oxford St</name>
+    <time>2016-07-12T06:46:38Z</time>
+    <desc>1528 Oxford St, Berkeley, CA 94709, USA</desc>
+  </wpt>
+</gpx>
